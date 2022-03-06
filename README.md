@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pascal3366
+- 👀 I’m interested in Penetration Testing & Digital Forensics
+- 🌱 I’m currently learning Python, Pentesting, Forensics
+- 💞️ I’m looking to collaborate on security focused projects
